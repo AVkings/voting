@@ -22,8 +22,8 @@ A Python-based prototype that automates the voter verification, photo capture, a
 
 ### 1. Clone & Setup Environment
 ```bash
-git clone https://github.com/YOUR_USERNAME/automated-voting-system.git
-cd automated-voting-system
+git clone https://github.com/AVkings/voting.git
+cd voting
 python -m venv venv
 # Windows:
 venv\Scripts\activate
