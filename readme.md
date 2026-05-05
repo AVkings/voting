@@ -178,7 +178,7 @@ If building an executable:
 # Settings → Privacy & Security → Windows Security → Virus & threat protection → Manage settings → Exclusions → Add folder
 
 Shows: ID scan → OCR extraction → Ink simulation → Biometric capture → WhatsApp receipt delivery.
-
+```
 ---
 
 ## 🤝 Contributing
